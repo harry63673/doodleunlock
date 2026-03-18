@@ -1,0 +1,20 @@
+doodleunlock/
+├── dists/
+│   └── stable/
+│       └── main/
+│           └── binary-iphoneos-arm/
+│               ├── Packages
+│               └── Packages.gz
+├── pool/
+│   └── main/
+│       └── d/
+│           └── doodleunlock/
+│               └── doodleunlock_1.0_iphoneos-arm.deb
+└── ReleaseOrigin: HarryRepo
+Label: Doodle Unlock Repo
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+Description: Doodle Unlock tweak repo
